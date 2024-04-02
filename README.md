@@ -13,7 +13,7 @@
 ### Task 2
 
 1. Clone this repository `bcd-sandbox-2024S` onto your computer.
-1. Under the `people` directory, create a text file (.txt), name the text file with your student ID. For example, if your student ID is `22316316`, the file name should be `22316316.txt`. Write your full name in the file.
+1. Under the `people` directory, create a text file (.txt), name the text file with your student ID. For example, if your student ID is `22316316`, the file name should be `22316316.txt`. Write your full name in the file. Besides this, you're not supposed to make any other changes on any other files.
 1. Commit the changes.
 1. Push the changes to this repository. If you get an error, do what's necessary to resolve the issue.
 
