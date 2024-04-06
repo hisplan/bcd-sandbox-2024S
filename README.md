@@ -7,7 +7,7 @@
 ### Task 1
 
 1. Install `git` on your computer.
-1. Create an GitHub account. You will get a GitHub handle. For example, mine is `hisplan`.
+1. Create a GitHub account. You will get a GitHub handle. For example, mine is `hisplan`.
 1. Going forward, if you're asked to do something with git for this assigment, make sure you do it from Terminal on Mac or PowerShell on Windows.
 
 ### Task 2
